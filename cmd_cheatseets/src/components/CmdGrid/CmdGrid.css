@@ -1,0 +1,11 @@
+.my-spinner {
+    width: 40px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+
+
+.ag-theme-alpine {
+  height: 100vh !important;
+}

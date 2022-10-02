@@ -1,0 +1,4 @@
+// .dockerignore
+
+nodes_modules
+build
